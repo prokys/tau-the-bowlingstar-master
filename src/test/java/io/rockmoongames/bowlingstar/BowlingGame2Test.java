@@ -7,4 +7,19 @@ public class BowlingGame2Test {
     public void lisaTestOFour() {
         //Lisa's test number two
     }
+    @Test
+    public void lisaTestOFive() {
+        //Lisa's test number three
+        //fix
+    }
+    @Test
+    public void lisaTestSix() {
+        //Lisa's test number four
+        //fix
+    }
+    @Test
+    public void lisaTestSeven() {
+        //Lisa's test number five
+        //fix
+    }
 }

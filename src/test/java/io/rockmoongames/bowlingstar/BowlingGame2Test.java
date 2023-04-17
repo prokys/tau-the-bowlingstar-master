@@ -26,4 +26,8 @@ public class BowlingGame2Test {
     public void jessicaTestEight() {
         //Jessica's test number three
     }
+    @Test
+    public void jessicaTestNine() {
+        //Jessica's test number four
+    }
 }
